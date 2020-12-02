@@ -1,0 +1,8 @@
+C:\Users\matheus.novais\Desktop\C#\Gerenciamento_Colmeia\Gerenciamento_Colmeia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\matheus.novais\Desktop\C#\Gerenciamento_Colmeia\Gerenciamento_Colmeia\obj\Debug\Gerenciamento_Colmeia.Form1.resources
+C:\Users\matheus.novais\Desktop\C#\Gerenciamento_Colmeia\Gerenciamento_Colmeia\obj\Debug\Gerenciamento_Colmeia.Properties.Resources.resources
+C:\Users\matheus.novais\Desktop\C#\Gerenciamento_Colmeia\Gerenciamento_Colmeia\obj\Debug\Gerenciamento_Colmeia.csproj.GenerateResource.Cache
+C:\Users\matheus.novais\Desktop\C#\Gerenciamento_Colmeia\Gerenciamento_Colmeia\bin\Debug\Gerenciamento_Colmeia.exe
+C:\Users\matheus.novais\Desktop\C#\Gerenciamento_Colmeia\Gerenciamento_Colmeia\bin\Debug\Gerenciamento_Colmeia.pdb
+C:\Users\matheus.novais\Desktop\C#\Gerenciamento_Colmeia\Gerenciamento_Colmeia\obj\Debug\Gerenciamento_Colmeia.exe
+C:\Users\matheus.novais\Desktop\C#\Gerenciamento_Colmeia\Gerenciamento_Colmeia\obj\Debug\Gerenciamento_Colmeia.pdb
